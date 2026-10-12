@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hola, soy Dario Sanz (maGoRzii) 👋
+  # Hola, soy Dario Sanz 👋
   
   **Desarrollador asistido por IA & Analista Funcional en Retail**
 
